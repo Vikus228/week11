@@ -4,3 +4,11 @@
     align-items: center;
     justify-content: center;
 }
+
+li {
+    font-size: 26px;
+}
+
+.ready {
+    color: green;
+}
